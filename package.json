@@ -7,8 +7,8 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "core-common",
-      "core-ja",
+      "presets/core-common",
+      "presets/core-ja",
       "playground"
     ],
     "nohoist": ["**/textlint-configs-playground/**"]

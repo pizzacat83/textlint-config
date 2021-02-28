@@ -5,7 +5,6 @@
   "main": "index.js",
   "author": "pizzacat83 <17941141+pizzacat83@users.noreply.github.com>",
   "license": "MIT",
-  "private": false,
   "peerDependencies": {
     "textlint": "^11.8.2"
   },

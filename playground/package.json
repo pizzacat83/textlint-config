@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "textlint": "^11.8.2",
-    "@pizzacat83/textlint-rule-preset-ja": "^0.1.0"
+    "@pizzacat83/textlint-rule-preset-ja": "^0.1.0",
+    "textlint": "^11.8.2"
   }
 }

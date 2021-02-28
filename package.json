@@ -7,10 +7,11 @@
   "private": true,
   "workspaces": {
     "packages": [
+      "configs",
       "presets/core-common",
       "presets/core-ja",
       "playground"
     ],
-    "nohoist": ["**/textlint-configs-playground/**"]
+    "nohoist": ["**/textlint-configs-playground/**", "**/@pizzacat83/textlint-configs/**"]
   }
 }

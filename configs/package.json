@@ -1,0 +1,14 @@
+{
+  "name": "@pizzacat83/textlint-configs",
+  "version": "0.1.0",
+  "description": "textlint configs",
+  "main": "index.js",
+  "author": "pizzacat83 <17941141+pizzacat83@users.noreply.github.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "textlint": "^11.8.2"
+  },
+  "dependencies": {
+    "@pizzacat83/textlint-rule-preset-ja": "^0.1.0"
+  }
+}

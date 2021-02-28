@@ -10,6 +10,7 @@
     "textlint": "^11.8.2"
   },
   "dependencies": {
-    "@textlint/module-interop": "^1.2.2"
+    "@textlint/module-interop": "^1.2.2",
+    "textlint-filter-rule-comments": "^1.2.2"
   }
 }

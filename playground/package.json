@@ -1,0 +1,13 @@
+{
+  "name": "textlint-configs-playground",
+  "version": "0.1.0",
+  "description": "Just a place to try out my preset",
+  "main": "index.js",
+  "author": "pizzacat83 <17941141+pizzacat83@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "textlint": "^11.8.2",
+    "@pizzacat83/textlint-rule-preset-ja": "^0.1.0"
+  }
+}

@@ -8,8 +8,13 @@ module.exports = {
   },
   "rules": {
     ...commonConfig.rules,
-    "textlint-rule-preset-jtf-style": true,
-    "textlint-rule-preset-ja-technical-writing": true,
+    "textlint-rule-preset-jtf-style": {
+      "1.2.2.ピリオド(.)とカンマ(,)": false,
+      "3.1.1.全角文字と半角文字の間": false,
+    },
+    "textlint-rule-preset-ja-technical-writing": {
+      "ja-no-mixed-period": false, // covered in preset-ja-engineering-paper
+    },
     "preset-ja-engineering-paper" : true,
     "preset-ja-spacing": {
       "ja-space-between-half-and-full-width": {

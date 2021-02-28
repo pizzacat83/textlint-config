@@ -1,8 +1,5 @@
-module.exports = {
-  "filters": {
-    "comments": true
-  },
-  "rules": {
-    "@pizzacat83/preset-common" : true
-  }
-}
+const { moduleInterop } = require("@textlint/module-interop");
+
+const commonConfig = moduleInterop(require("./lib/common"));
+
+module.exports = commonConfig;

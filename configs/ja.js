@@ -1,8 +1,5 @@
-module.exports = {
-  "filters": {
-    "comments": true
-  },
-  "rules": {
-    "@pizzacat83/preset-ja" : true
-  }
-}
+const { moduleInterop } = require("@textlint/module-interop");
+
+const jaConfig = moduleInterop(require("./lib/ja"))
+
+module.exports = jaConfig;

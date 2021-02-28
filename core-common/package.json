@@ -1,0 +1,15 @@
+{
+  "name": "@pizzacat83/textlint-rule-preset-common",
+  "version": "0.1.0",
+  "description": "textlint preset for all languages",
+  "main": "index.js",
+  "author": "pizzacat83 <17941141+pizzacat83@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "textlint": "^11.8.2"
+  },
+  "dependencies": {
+    "@textlint/module-interop": "^1.2.2"
+  }
+}

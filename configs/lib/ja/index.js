@@ -24,6 +24,9 @@ module.exports = {
       "ja-no-space-around-parentheses": true,
       "ja-space-after-exclamation": false,
       "ja-space-after-question": false,
-    }
+    },
+    "no-mixed-zenkaku-and-hankaku-alphabet": {
+      "prefer": "半角"
+    },
   },
 }

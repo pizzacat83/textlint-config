@@ -11,6 +11,7 @@
   "dependencies": {
     "@textlint/module-interop": "^1.2.2",
     "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet": "^1.0.1",
     "textlint-rule-preset-ja-engineering-paper": "^1.0.2",
     "textlint-rule-preset-ja-spacing": "^2.0.2",
     "textlint-rule-preset-ja-technical-writing": "^4.0.1",

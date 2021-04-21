@@ -20,7 +20,10 @@ module.exports = {
       "ja-space-between-half-and-full-width": {
         "space": "always",
       },
-      "ja-space-around-code": true,
+      "ja-space-around-code": {
+        "before": true,
+        "after": true,
+      },
       "ja-no-space-around-parentheses": true,
       "ja-space-after-exclamation": false,
       "ja-space-after-question": false,

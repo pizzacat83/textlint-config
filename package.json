@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "author": "pizzacat83 <17941141+pizzacat83@users.noreply.github.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "private": true,
   "workspaces": {
     "packages": [

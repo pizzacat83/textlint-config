@@ -4,7 +4,7 @@
   "description": "Just a place to try out my preset",
   "main": "index.js",
   "author": "pizzacat83 <17941141+pizzacat83@users.noreply.github.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "private": true,
   "dependencies": {
     "@pizzacat83/textlint-configs": "^0.1.0",

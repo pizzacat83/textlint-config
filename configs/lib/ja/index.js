@@ -10,6 +10,7 @@ module.exports = {
     ...commonConfig.rules,
     "textlint-rule-preset-jtf-style": {
       "1.2.2.ピリオド(.)とカンマ(,)": false,
+      "2.1.6.カタカナの長音": true,
       "3.1.1.全角文字と半角文字の間": false,
     },
     "textlint-rule-preset-ja-technical-writing": {
